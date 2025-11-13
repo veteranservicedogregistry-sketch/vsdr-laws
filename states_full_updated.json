@@ -252,7 +252,7 @@
       "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
       "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
     },
-    "penalties": "not_evaluated"
+    "penalties": "interference"
   },
   {
     "state": "Kentucky",
@@ -439,7 +439,7 @@
     "abbr": "NH",
     "citation_text": "See NH assistance animal/guide dog laws (consolidated)",
     "official_url": "https://www.animallaw.info/statutes/us/new-hampshire",
-    "summary": "New Hampshire statutes on assistance and guide animals cover access rights, drivers’ duties, and penalties for interference; the consolidated Animal Law entry is the best single reference for all provisions.",
+    "summary": "New Hampshire statutes on assistance and guide animals cover access rights, drivers’ duties, penalties for interference, and a specific misdemeanor offense for misrepresenting a dog as a service dog.",
     "scope": ["public accommodations", "transportation", "driving", "interference"],
     "last_verified": "2025-11-13",
     "notes": "",
@@ -447,14 +447,14 @@
       "animal_law_table": "https://www.animallaw.info/statutes/us/new-hampshire",
       "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
     },
-    "penalties": "not_evaluated"
+    "penalties": "misrepresentation_and_interference"
   },
   {
     "state": "New Jersey",
     "abbr": "NJ",
     "citation_text": "See NJ assistance animal/guide dog laws (consolidated)",
     "official_url": "https://www.animallaw.info/statutes/us/new-jersey",
-    "summary": "New Jersey’s statutes on guide and service animals are consolidated in the Assistance Animal/Guide Dog Laws entry and include access, housing protections, and emergency planning provisions.",
+    "summary": "New Jersey’s statutes on guide and service animals include civil penalties for interfering with or denying access to a person accompanied by a guide or service dog and fines for misrepresenting a dog as a guide or service dog.",
     "scope": ["public accommodations", "housing", "emergency_planning"],
     "last_verified": "2025-11-13",
     "notes": "",
@@ -462,14 +462,14 @@
       "animal_law_table": "https://www.animallaw.info/statutes/us/new-jersey",
       "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
     },
-    "penalties": "not_evaluated"
+    "penalties": "misrepresentation_and_interference"
   },
   {
     "state": "New Mexico",
     "abbr": "NM",
     "citation_text": "See NM assistance animal/guide dog laws (consolidated)",
     "official_url": "https://www.animallaw.info/statutes/us/new-mexico",
-    "summary": "New Mexico’s assistance animal and guide dog laws are compiled in a consolidated entry that covers access, driving, and interference provisions for service animals.",
+    "summary": "New Mexico’s Service Animal Act prohibits interference with qualified service animals and imposes both criminal and civil penalties, and separately makes false presentation of an animal as a qualified service animal a misdemeanor.",
     "scope": ["public accommodations", "transportation", "driving", "interference"],
     "last_verified": "2025-11-13",
     "notes": "",
@@ -477,7 +477,7 @@
       "animal_law_table": "https://www.animallaw.info/statutes/us/new-mexico",
       "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
     },
-    "penalties": "not_evaluated"
+    "penalties": "misrepresentation_and_interference"
   },
   {
     "state": "New York",
@@ -589,7 +589,7 @@
     "abbr": "RI",
     "citation_text": "See RI assistance animal/guide dog laws (consolidated)",
     "official_url": "http://webserver.rilin.state.ri.us/Statutes/",
-    "summary": "Rhode Island’s statutes on service and assistance animals are consolidated in an assistance animal/guide dog laws entry that covers access protections and penalties for interference.",
+    "summary": "Rhode Island law provides civil remedies and damages for interfering with or injuring a service animal and, under recent amendments, makes it a violation to misrepresent an animal as a service animal to gain access reserved for service animals.",
     "scope": ["public accommodations", "transportation", "housing"],
     "last_verified": "2025-11-13",
     "notes": "",
@@ -597,7 +597,7 @@
       "animal_law_table": "https://www.animallaw.info/statutes/us/rhode-island",
       "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
     },
-    "penalties": "not_evaluated"
+    "penalties": "misrepresentation_and_interference"
   },
   {
     "state": "South Carolina",
@@ -619,7 +619,7 @@
     "abbr": "SD",
     "citation_text": "See SD assistance animal/guide dog laws (consolidated)",
     "official_url": "https://www.animallaw.info/statutes/us/south-dakota",
-    "summary": "South Dakota’s service and assistance animal laws are consolidated in an assistance animal/guide dog entry that covers access rights and penalties for interference and injury.",
+    "summary": "South Dakota law makes it a Class 2 misdemeanor to deny access to or charge extra for a person with a service animal and also penalizes harassment or interference with service dogs; housing law allows penalties when tenants misrepresent the need for a service animal.",
     "scope": ["public accommodations", "transportation", "driving", "interference"],
     "last_verified": "2025-11-13",
     "notes": "",
@@ -627,14 +627,14 @@
       "animal_law_table": "https://www.animallaw.info/statutes/us/south-dakota",
       "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
     },
-    "penalties": "not_evaluated"
+    "penalties": "misrepresentation_and_interference"
   },
   {
     "state": "Tennessee",
     "abbr": "TN",
     "citation_text": "See TN assistance animal/guide dog laws (consolidated)",
     "official_url": "https://www.animallaw.info/statutes/us/tennessee",
-    "summary": "Tennessee’s key statutes on guide and service animals cover public access, housing protections, and criminal penalties for injury or interference; they are compiled in the assistance animal/guide dog laws entry.",
+    "summary": "Tennessee law makes misrepresentation of a service or support animal a Class B misdemeanor with mandatory community service and separately criminalizes harming or interfering with a service animal, with restitution required.",
     "scope": ["public accommodations", "housing", "transportation", "interference"],
     "last_verified": "2025-11-13",
     "notes": "",
@@ -642,7 +642,7 @@
       "animal_law_table": "https://www.animallaw.info/statutes/us/tennessee",
       "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
     },
-    "penalties": "not_evaluated"
+    "penalties": "misrepresentation_and_interference"
   },
   {
     "state": "Texas",
@@ -679,7 +679,7 @@
     "abbr": "VT",
     "citation_text": "See VT assistance animal/guide dog laws (consolidated)",
     "official_url": "https://www.animallaw.info/statutes/us/vermont",
-    "summary": "Vermont’s primary service and assistance animal statutes are consolidated in the assistance animal/guide dog entry, including access, driving, and housing protections.",
+    "summary": "Vermont law imposes criminal penalties for injuring or causing the death of a guide dog and civil fines for recklessly interfering with the use of a guide dog, creating both civil and criminal remedies related to service animals.",
     "scope": ["public accommodations", "transportation", "driving", "housing"],
     "last_verified": "2025-11-13",
     "notes": "",
@@ -687,7 +687,7 @@
       "animal_law_table": "https://www.animallaw.info/statutes/us/vermont",
       "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
     },
-    "penalties": "not_evaluated"
+    "penalties": "mixed_civil_and_criminal"
   },
   {
     "state": "Virginia",
@@ -724,7 +724,7 @@
     "abbr": "WV",
     "citation_text": "See WV assistance animal/guide dog laws (consolidated)",
     "official_url": "https://www.animallaw.info/statutes/us/west-virginia",
-    "summary": "West Virginia’s guide and service animal statutes cover access, driving duties, and penalties for interference and are compiled in a consolidated assistance animal/guide dog entry.",
+    "summary": "West Virginia’s White Cane law provides misdemeanor penalties for interfering with access rights and separate penalties for fraudulent representation of a service animal; recent legislation also proposes a specific offense for assault upon a service animal.",
     "scope": ["public accommodations", "transportation", "driving", "interference"],
     "last_verified": "2025-11-13",
     "notes": "",
@@ -732,7 +732,7 @@
       "animal_law_table": "https://www.animallaw.info/statutes/us/west-virginia",
       "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
     },
-    "penalties": "not_evaluated"
+    "penalties": "misrepresentation_and_interference"
   },
   {
     "state": "Wisconsin",
