@@ -1,0 +1,908 @@
+[
+  {
+    "state": "Alabama",
+    "abbr": "AL",
+    "citation_text": "",
+    "official_url": "https://codeofalabama.com/",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Alaska",
+    "abbr": "AK",
+    "citation_text": "",
+    "official_url": "https://www.akleg.gov/basis/statutes.asp",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Arizona",
+    "abbr": "AZ",
+    "citation_text": "Ariz. Rev. Stat. § 11-1024; § 13-2910",
+    "official_url": "https://www.azleg.gov/arsDetail/?title=11",
+    "summary": "Provides access rights for people with disabilities accompanied by service animals and prohibits fraudulent misrepresentation of other animals as service animals; related provisions cover interference and harm.",
+    "scope": [
+      "public accommodations",
+      "transportation",
+      "training",
+      "interference"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "misrepresentation_and_interference"
+  },
+  {
+    "state": "Arkansas",
+    "abbr": "AR",
+    "citation_text": "Ark. Code § 20-14-303; § 20-14-310",
+    "official_url": "https://law.justia.com/codes/arkansas/title-20/subtitle-2/chapter-14/subchapter-3/",
+    "summary": "Guarantees access for persons with disabilities accompanied by service animals and imposes a civil penalty for misrepresenting an animal as a service animal or service animal in training.",
+    "scope": [
+      "public accommodations",
+      "public ways",
+      "state services"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "misrepresentation"
+  },
+  {
+    "state": "California",
+    "abbr": "CA",
+    "citation_text": "Cal. Civ. Code § 54.1; § 54.2; Cal. Penal Code § 365.5",
+    "official_url": "https://leginfo.legislature.ca.gov/",
+    "summary": "State civil rights laws guarantee access rights for people with disabilities accompanied by service animals; criminal penalties exist for interference and misrepresentation.",
+    "scope": [
+      "public accommodations",
+      "transportation",
+      "interference"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "misrepresentation_and_interference"
+  },
+  {
+    "state": "Colorado",
+    "abbr": "CO",
+    "citation_text": "Colo. Rev. Stat. § 24-34-803; § 18-13-107.7",
+    "official_url": "https://law.justia.com/codes/colorado/",
+    "summary": "Protects the right of individuals with disabilities to be accompanied by service animals and makes intentional misrepresentation of an animal as a service animal a petty offense.",
+    "scope": [
+      "public accommodations",
+      "housing",
+      "employment",
+      "transportation"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "misrepresentation"
+  },
+  {
+    "state": "Connecticut",
+    "abbr": "CT",
+    "citation_text": "Conn. Gen. Stat. § 46a-44",
+    "official_url": "https://www.cga.ct.gov/current/pub/chap_814c.htm#sec_46a-44",
+    "summary": "Provides broad protections for blind, deaf, and mobility-impaired persons accompanied by service animals and treats denial of access or interference as a discriminatory practice.",
+    "scope": [
+      "public accommodations",
+      "public facilities",
+      "housing"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "discrimination_remedies"
+  },
+  {
+    "state": "Delaware",
+    "abbr": "DE",
+    "citation_text": "Del. Code tit. 7, § 1717; § 1717A",
+    "official_url": "https://delcode.delaware.gov/title7/c017/sc02/",
+    "summary": "Grants access rights for individuals with disabilities accompanied by service animals and creates offenses related to interfering with or misrepresenting a service animal.",
+    "scope": [
+      "public accommodations",
+      "transportation",
+      "public ways"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "misrepresentation_and_interference"
+  },
+  {
+    "state": "District of Columbia",
+    "abbr": "DC",
+    "citation_text": "D.C. Code § 7-1002; § 22-1001",
+    "official_url": "https://code.dccouncil.gov/us/dc/council/code/sections/7-1002",
+    "summary": "Recognizes the right of persons with disabilities to be accompanied by service animals in public places and provides criminal penalties for cruelty or interference with such animals.",
+    "scope": [
+      "public accommodations",
+      "transportation",
+      "housing"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "interference"
+  },
+  {
+    "state": "Florida",
+    "abbr": "FL",
+    "citation_text": "Fla. Stat. § 413.08",
+    "official_url": "https://www.leg.state.fl.us/statutes/",
+    "summary": "Defines service animals, guarantees access rights in public accommodations and housing, and makes misrepresentation of a pet as a service animal a criminal offense.",
+    "scope": [
+      "public accommodations",
+      "transportation",
+      "housing"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "misrepresentation_and_interference"
+  },
+  {
+    "state": "Georgia",
+    "abbr": "GA",
+    "citation_text": "Ga. Code Ann. § 30-4-2; § 16-11-107",
+    "official_url": "https://law.justia.com/codes/georgia/",
+    "summary": "Provides access rights for persons with disabilities accompanied by service dogs and establishes criminal penalties for injuring, harassing, or interfering with a service dog or its trainer.",
+    "scope": [
+      "public accommodations",
+      "public transportation",
+      "training",
+      "interference"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "interference"
+  },
+  {
+    "state": "Hawaii",
+    "abbr": "HI",
+    "citation_text": "",
+    "official_url": "https://law.justia.com/codes/hawaii/",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Idaho",
+    "abbr": "ID",
+    "citation_text": "",
+    "official_url": "https://legislature.idaho.gov/statutesrules/idstat/",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Illinois",
+    "abbr": "IL",
+    "citation_text": "745 ILCS 70/ (Service Animal Access Act); 775 ILCS 5/ (Illinois Human Rights Act)",
+    "official_url": "https://www.ilga.gov/legislation/ilcs/ilcs.asp",
+    "summary": "The Service Animal Access Act and the Illinois Human Rights Act together provide strong protections for service-animal handlers in public accommodations, housing, and employment.",
+    "scope": [
+      "public accommodations",
+      "housing",
+      "employment",
+      "interference"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "discrimination_remedies"
+  },
+  {
+    "state": "Indiana",
+    "abbr": "IN",
+    "citation_text": "",
+    "official_url": "https://iga.in.gov/laws/indiana-code/",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Iowa",
+    "abbr": "IA",
+    "citation_text": "",
+    "official_url": "https://www.legis.iowa.gov/law/iowaCode",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Kansas",
+    "abbr": "KS",
+    "citation_text": "",
+    "official_url": "http://kslegislature.org/li/b/statute/",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Kentucky",
+    "abbr": "KY",
+    "citation_text": "",
+    "official_url": "https://apps.legislature.ky.gov/law/ksrs/",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Louisiana",
+    "abbr": "LA",
+    "citation_text": "",
+    "official_url": "https://legis.la.gov/Legis/Laws_Toc.aspx",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Maine",
+    "abbr": "ME",
+    "citation_text": "",
+    "official_url": "https://legislature.maine.gov/statutes/",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Maryland",
+    "abbr": "MD",
+    "citation_text": "",
+    "official_url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Massachusetts",
+    "abbr": "MA",
+    "citation_text": "",
+    "official_url": "https://malegislature.gov/Laws/GeneralLaws/",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Michigan",
+    "abbr": "MI",
+    "citation_text": "MCL 37.1101 et seq. (PWDCRA); MCL 750.502c",
+    "official_url": "https://www.legislature.mi.gov/",
+    "summary": "The Persons with Disabilities Civil Rights Act provides broad protections for people with disabilities, and criminal provisions penalize interference or misrepresentation related to service animals.",
+    "scope": [
+      "public accommodations",
+      "housing",
+      "employment",
+      "interference"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "misrepresentation_and_interference"
+  },
+  {
+    "state": "Minnesota",
+    "abbr": "MN",
+    "citation_text": "",
+    "official_url": "https://www.revisor.mn.gov/statutes/",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Mississippi",
+    "abbr": "MS",
+    "citation_text": "",
+    "official_url": "https://law.justia.com/codes/mississippi/",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Missouri",
+    "abbr": "MO",
+    "citation_text": "",
+    "official_url": "https://revisor.mo.gov/main/Home.aspx",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Montana",
+    "abbr": "MT",
+    "citation_text": "",
+    "official_url": "https://leg.mt.gov/bills/mca/index.html",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Nebraska",
+    "abbr": "NE",
+    "citation_text": "",
+    "official_url": "https://nebraskalegislature.gov/laws/browse.php",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Nevada",
+    "abbr": "NV",
+    "citation_text": "",
+    "official_url": "https://www.leg.state.nv.us/nrs/",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "New Hampshire",
+    "abbr": "NH",
+    "citation_text": "",
+    "official_url": "https://www.gencourt.state.nh.us/rsa/html/indexes/default.html",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "New Jersey",
+    "abbr": "NJ",
+    "citation_text": "",
+    "official_url": "https://njlaw.rutgers.edu/collections/njstats/",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "New Mexico",
+    "abbr": "NM",
+    "citation_text": "",
+    "official_url": "https://laws.nmonesource.com/nmos/nmsa/en/nav_date.do",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "New York",
+    "abbr": "NY",
+    "citation_text": "N.Y. Civ. Rights Law § 47; N.Y. Exec. Law § 296",
+    "official_url": "https://public.leginfo.state.ny.us/",
+    "summary": "Civil Rights and Human Rights Laws protect access with service animals; housing and employment are covered under the Human Rights Law.",
+    "scope": [
+      "public accommodations",
+      "housing",
+      "employment"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "discrimination_remedies"
+  },
+  {
+    "state": "North Carolina",
+    "abbr": "NC",
+    "citation_text": "N.C. Gen. Stat. § 168-4.1; § 168-4.2",
+    "official_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_168.html",
+    "summary": "Guarantees access for persons with disabilities accompanied by service animals and prohibits interference or denial of access.",
+    "scope": [
+      "public accommodations",
+      "interference"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "interference"
+  },
+  {
+    "state": "North Dakota",
+    "abbr": "ND",
+    "citation_text": "",
+    "official_url": "https://www.ndlegis.gov/cencode/titles.html",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Ohio",
+    "abbr": "OH",
+    "citation_text": "Ohio Rev. Code § 955.43; § 4112.02",
+    "official_url": "https://codes.ohio.gov/",
+    "summary": "Provides access rights and anti-discrimination protections for individuals accompanied by service animals; penalties may apply for interference or denial of rights.",
+    "scope": [
+      "public accommodations",
+      "housing",
+      "employment",
+      "interference"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "discrimination_remedies"
+  },
+  {
+    "state": "Oklahoma",
+    "abbr": "OK",
+    "citation_text": "",
+    "official_url": "https://law.justia.com/codes/oklahoma/",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Oregon",
+    "abbr": "OR",
+    "citation_text": "",
+    "official_url": "https://www.oregonlegislature.gov/bills_laws/pages/ors.aspx",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Pennsylvania",
+    "abbr": "PA",
+    "citation_text": "43 P.S. § 955; 18 Pa.C.S. § 7325",
+    "official_url": "https://www.legis.state.pa.us/",
+    "summary": "The Pennsylvania Human Relations Act covers access and housing, while the criminal code provides penalties for misrepresentation or harm to service animals.",
+    "scope": [
+      "public accommodations",
+      "housing",
+      "interference"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "misrepresentation_and_interference"
+  },
+  {
+    "state": "Rhode Island",
+    "abbr": "RI",
+    "citation_text": "",
+    "official_url": "http://webserver.rilin.state.ri.us/Statutes/",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "South Carolina",
+    "abbr": "SC",
+    "citation_text": "",
+    "official_url": "https://www.scstatehouse.gov/code/statmast.php",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "South Dakota",
+    "abbr": "SD",
+    "citation_text": "",
+    "official_url": "https://sdlegislature.gov/Statutes/Codified_Laws",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Tennessee",
+    "abbr": "TN",
+    "citation_text": "",
+    "official_url": "https://law.justia.com/codes/tennessee/",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Texas",
+    "abbr": "TX",
+    "citation_text": "Tex. Hum. Res. Code § 121.003; § 121.004",
+    "official_url": "https://statutes.capitol.texas.gov/",
+    "summary": "Ensures access for persons with disabilities accompanied by assistance/service animals and authorizes penalties for denial of access and interference.",
+    "scope": [
+      "public accommodations",
+      "transportation",
+      "interference"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "interference"
+  },
+  {
+    "state": "Utah",
+    "abbr": "UT",
+    "citation_text": "",
+    "official_url": "https://le.utah.gov/xcode/TitleList.html",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Vermont",
+    "abbr": "VT",
+    "citation_text": "",
+    "official_url": "https://legislature.vermont.gov/statutes/main-title/",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Virginia",
+    "abbr": "VA",
+    "citation_text": "",
+    "official_url": "https://law.lis.virginia.gov/vacode",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Washington",
+    "abbr": "WA",
+    "citation_text": "RCW 49.60.040; RCW 49.60.215",
+    "official_url": "https://apps.leg.wa.gov/rcw/",
+    "summary": "The Washington Law Against Discrimination recognizes trained service animals and protects access in public accommodations, housing, and employment.",
+    "scope": [
+      "public accommodations",
+      "housing",
+      "employment"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "discrimination_remedies"
+  },
+  {
+    "state": "West Virginia",
+    "abbr": "WV",
+    "citation_text": "",
+    "official_url": "https://code.wvlegislature.gov/",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Wisconsin",
+    "abbr": "WI",
+    "citation_text": "",
+    "official_url": "https://docs.legis.wisconsin.gov/statutes",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  },
+  {
+    "state": "Wyoming",
+    "abbr": "WY",
+    "citation_text": "",
+    "official_url": "https://wyoleg.gov/StatutesComps",
+    "summary": "State law provides protections for individuals with disabilities to be accompanied by service animals in places of public accommodation; the federal ADA also applies.",
+    "scope": [
+      "public accommodations"
+    ],
+    "last_verified": "2025-11-13",
+    "notes": "",
+    "aggregator_links": {
+      "animal_law_table": "https://www.animallaw.info/topic/table-state-assistance-animal-laws",
+      "ncsl_overview": "https://www.ncsl.org/civil-and-criminal-justice/assistance-animal-legal-issues"
+    },
+    "penalties": "not_evaluated"
+  }
+]
